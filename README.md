@@ -50,6 +50,13 @@ The site assessment stage identifies land areas that meet the necessary technica
 
 All datasets were referenced against WGS84 to ensure spatial consistency and accuracy.
 
+# Tools
+ArcGIS Pro\
+ArcGIS Online\
+ArcGIS Storymap
+
+
+
 
 
 
